@@ -7,6 +7,9 @@
 
 # Name of website
 title: My Website
+testing:
+  id: 1
+  nae: Franc
 
 # Your name to show in the footer
 author: Some Person
