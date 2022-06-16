@@ -1,1 +1,1 @@
-I give this plugin two :+1:!
+ {{ testing.id }}
