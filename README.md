@@ -1,1 +1,1 @@
-{{ "HELLO" | downcase }}
+{{ :+1: }}
