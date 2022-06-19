@@ -1,0 +1,7 @@
+@open_login_dialog = ->
+  opt = 
+    autoOpen: false
+    modal: true
+    width: 'auto'
+    focus: -> "\""
+      
