@@ -9,6 +9,8 @@
 title: My Website
 testing: testing123
 
+remote_theme: https://google.ca/test/test
+
 destination: _site2
 
 # Your name to show in the footer
